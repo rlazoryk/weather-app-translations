@@ -1,0 +1,8 @@
+D:\Roman\Exoft\TranslationsApi\TranslationsApi.Core\bin\Debug\netcoreapp3.0\TranslationsApi.Core.deps.json
+D:\Roman\Exoft\TranslationsApi\TranslationsApi.Core\bin\Debug\netcoreapp3.0\TranslationsApi.Core.dll
+D:\Roman\Exoft\TranslationsApi\TranslationsApi.Core\bin\Debug\netcoreapp3.0\TranslationsApi.Core.pdb
+D:\Roman\Exoft\TranslationsApi\TranslationsApi.Core\obj\Debug\netcoreapp3.0\TranslationsApi.Core.AssemblyInfoInputs.cache
+D:\Roman\Exoft\TranslationsApi\TranslationsApi.Core\obj\Debug\netcoreapp3.0\TranslationsApi.Core.AssemblyInfo.cs
+D:\Roman\Exoft\TranslationsApi\TranslationsApi.Core\obj\Debug\netcoreapp3.0\TranslationsApi.Core.dll
+D:\Roman\Exoft\TranslationsApi\TranslationsApi.Core\obj\Debug\netcoreapp3.0\TranslationsApi.Core.pdb
+D:\Roman\Exoft\TranslationsApi\TranslationsApi.Core\obj\Debug\netcoreapp3.0\TranslationsApi.Core.csprojAssemblyReference.cache

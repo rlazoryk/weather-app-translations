@@ -1,0 +1,13 @@
+D:\Roman\Exoft\TranslationsApi\TranslationsApi.Services\bin\Debug\netcoreapp3.0\TranslationsApi.Services.deps.json
+D:\Roman\Exoft\TranslationsApi\TranslationsApi.Services\bin\Debug\netcoreapp3.0\TranslationsApi.Services.dll
+D:\Roman\Exoft\TranslationsApi\TranslationsApi.Services\bin\Debug\netcoreapp3.0\TranslationsApi.Services.pdb
+D:\Roman\Exoft\TranslationsApi\TranslationsApi.Services\bin\Debug\netcoreapp3.0\TranslationsApi.Core.dll
+D:\Roman\Exoft\TranslationsApi\TranslationsApi.Services\bin\Debug\netcoreapp3.0\TranslationsApi.DAL.dll
+D:\Roman\Exoft\TranslationsApi\TranslationsApi.Services\bin\Debug\netcoreapp3.0\TranslationsApi.DAL.pdb
+D:\Roman\Exoft\TranslationsApi\TranslationsApi.Services\bin\Debug\netcoreapp3.0\TranslationsApi.Core.pdb
+D:\Roman\Exoft\TranslationsApi\TranslationsApi.Services\obj\Debug\netcoreapp3.0\TranslationsApi.Services.csprojAssemblyReference.cache
+D:\Roman\Exoft\TranslationsApi\TranslationsApi.Services\obj\Debug\netcoreapp3.0\TranslationsApi.Services.AssemblyInfoInputs.cache
+D:\Roman\Exoft\TranslationsApi\TranslationsApi.Services\obj\Debug\netcoreapp3.0\TranslationsApi.Services.AssemblyInfo.cs
+D:\Roman\Exoft\TranslationsApi\TranslationsApi.Services\obj\Debug\netcoreapp3.0\TranslationsApi.Services.csproj.CopyComplete
+D:\Roman\Exoft\TranslationsApi\TranslationsApi.Services\obj\Debug\netcoreapp3.0\TranslationsApi.Services.dll
+D:\Roman\Exoft\TranslationsApi\TranslationsApi.Services\obj\Debug\netcoreapp3.0\TranslationsApi.Services.pdb
